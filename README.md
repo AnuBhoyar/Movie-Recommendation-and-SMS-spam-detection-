@@ -1,1 +1,1 @@
-# Movie-Recommendation-and-SMS-spam-detection-
+# SMS-spam-detection-
