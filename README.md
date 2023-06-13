@@ -1,6 +1,6 @@
 # SMS-spam-detection System -
 Accomplished SMS spam detection on datset of SMS Spam detection.
-Used kaggle dataset: aggle.com/datasets/uciml/sms-spam-collection-dataset
+Used kaggle dataset: kaggle.com/datasets/uciml/sms-spam-collection-dataset
 Employed Machine learning classifiers like naive bayes,decision tree,logistic regression,SVM and random forest. Multinomial Naive bayes gave maximum precision of 0.99 with accuracy of 0.97.
 # Movie-Recommendation System-
 Developed recommendation system to suggest top 5 resembling movies to the movie user
