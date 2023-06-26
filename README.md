@@ -3,7 +3,9 @@ Accomplished SMS spam detection on datset of SMS Spam detection.
 
 Used kaggle dataset: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
-Employed Machine learning classifiers like naive bayes,decision tree,logistic regression,SVM and random forest. Multinomial Naive bayes gave maximum precision of 0.99 with accuracy of 0.97.
+Employed Machine learning classifiers like naive bayes,decision tree,logistic regression,SVM and random forest. 
+
+Classified SMS with BERT[Bidirectional Encoder Representations from Transformers] and used deep learning to train model.
 
 
 # Movie-Recommendation System-
