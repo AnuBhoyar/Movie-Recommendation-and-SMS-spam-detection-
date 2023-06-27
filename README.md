@@ -14,4 +14,5 @@ likes.
 
 Used kaggle dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
-Operated on dataset of 5300 movies through cosine similarity metric.
+Operated on dataset of 5300 movies and utilized different NLP techniques and applied cosine similarity metric.
+Merged 2-3 dataset and final recommendation system has movies from 1916 till 2016.
