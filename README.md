@@ -3,7 +3,7 @@ Accomplished SMS spam detection on datset of SMS Spam detection.
 
 Used kaggle dataset: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
-Preprocessed data by appyling NLP techniques like stemming,removing stopwords-punctuation-special characters. Employed Machine learning classifiers like naive bayes,decision tree,logistic regression,SVM and random forest. 
+Preprocessed data by applying NLP techniques like stemming,removing stopwords-punctuation-special characters. Employed Machine learning classifiers like naive bayes,decision tree,logistic regression,SVM and random forest. 
 
 Classified SMS with BERT[Bidirectional Encoder Representations from Transformers] and used deep learning to train model.
 
